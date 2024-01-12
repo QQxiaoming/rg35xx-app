@@ -1,0 +1,12 @@
+[submodule "rg35xx-app-iotester"]
+	path = rg35xx-app-iotester
+	url = https://gitee.com/QQxiaoming/rg35xx-app-iotester
+[submodule "rg35xx-app-st"]
+	path = rg35xx-app-st
+	url = https://gitee.com/QQxiaoming/rg35xx-app-st
+[submodule "rg35xx-app-template"]
+	path = rg35xx-app-template
+	url = https://gitee.com/QQxiaoming/rg35xx-app-template
+[submodule "rg35xx-app-DinguxCommander"]
+	path = rg35xx-app-DinguxCommander
+	url = https://gitee.com/QQxiaoming/rg35xx-app-DinguxCommander
